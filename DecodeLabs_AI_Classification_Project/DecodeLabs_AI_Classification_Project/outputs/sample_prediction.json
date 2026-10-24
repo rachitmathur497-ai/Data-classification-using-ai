@@ -1,0 +1,14 @@
+{
+  "measurements_cm": {
+    "sepal length (cm)": 5.1,
+    "sepal width (cm)": 3.5,
+    "petal length (cm)": 1.4,
+    "petal width (cm)": 0.2
+  },
+  "predicted_species": "setosa",
+  "probabilities": {
+    "setosa": 0.9808127381969135,
+    "versicolor": 0.019186992121989665,
+    "virginica": 2.6968109686920406e-07
+  }
+}
